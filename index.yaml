@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  devnet:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2022-10-19T13:02:48.99055962Z"
+    description: A Helm chart for Kubernetes
+    digest: 13fdff347fd7f4e99db44aadf0515667de09fbaf7834ce499d21a0074140a085
+    name: devnet
+    type: application
+    urls:
+    - https://github.com/Anmol1696/kubeshuttle/releases/download/devnet-0.1.1/devnet-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-10-19T13:02:48.99057272Z"
