@@ -3,6 +3,19 @@ entries:
   devnet:
   - apiVersion: v2
     appVersion: 0.1.1
+    created: "2022-12-23T13:03:36.219859972Z"
+    description: A Helm chart for Kubernetes
+    digest: 65d2bffae78d0adec1c3b3bc035963552b269b4f50b39f666eaa31d6c7c10b5b
+    maintainers:
+    - name: Shuttle
+      url: https://github.com/Anmol1696/shuttle
+    name: devnet
+    type: application
+    urls:
+    - https://github.com/Anmol1696/shuttle/releases/download/devnet-0.1.11/devnet-0.1.11.tgz
+    version: 0.1.11
+  - apiVersion: v2
+    appVersion: 0.1.1
     created: "2022-12-18T12:34:42.385205962Z"
     description: A Helm chart for Kubernetes
     digest: 98a9dc8b053609e76789fca2e55d229081c5cf7eef0e40f9d6fd2aee7ef3aec8
@@ -122,4 +135,4 @@ entries:
     urls:
     - https://github.com/Anmol1696/kubeshuttle/releases/download/devnet-0.1.1/devnet-0.1.1.tgz
     version: 0.1.1
-generated: "2022-12-18T12:34:42.385246061Z"
+generated: "2022-12-23T13:03:36.220648474Z"
